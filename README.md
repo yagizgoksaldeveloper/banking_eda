@@ -2,14 +2,13 @@
 This project is a simple data analysis project that explores a dataset from the banking sector. The goal of this project is to provide some insights into the dataset and to demonstrate some basic data analysis techniques using Python.
 
 # Dataset
-The dataset used in this project is the "bank.csv" dataset from the UCI Machine Learning Repository. It contains information about bank customers and their characteristics, as well as whether or not they subscribed to a term deposit. The dataset has 41,188 rows and 21 columns.
+The dataset used in this project is the "bank.csv" dataset from the UCI Machine Learning Repository. It contains information about bank customers and their characteristics, as well as whether or not they subscribed to a term deposit. The dataset has 4521 rows and 17 columns.
 
 # Tools Used
 This project uses the following tools and libraries:
 
-Python 3.7
+Python
 Pandas
-NumPy
 Matplotlib
 
 # Analysis
