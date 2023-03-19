@@ -26,3 +26,13 @@ Generating a correlation matrix and visualizing it as a heatmap using corr_matri
 
 # Conclusion
 Overall, this project provides a basic introduction to data analysis using Python and demonstrates some common techniques that can be used to explore a dataset. By analyzing the bank dataset, we were able to gain some insights into customer characteristics that may influence their decision to subscribe to a term deposit.
+
+# Future Work
+Explore the relationship between other features and the term deposit subscription rate.
+Conduct hypothesis tests to determine the significance of observed relationships.
+Implement machine learning models to predict term deposit subscription based on client characteristics.
+Analyze the effectiveness of different marketing campaigns in increasing term deposit subscriptions.
+Perform further data cleaning and preprocessing to prepare the data for advanced analysis and modeling.
+Utilize other data visualization libraries, such as Seaborn, to create more complex and informative visualizations.
+Combine this dataset with other datasets to gain additional insights and correlations.
+Investigate any potential biases in the dataset, such as selection or response bias, and account for them in the analysis.
